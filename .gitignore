@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# misc
+yarn-debug.log*
+yarn-error.log*
+
+# Next.js
+/.next
